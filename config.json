@@ -21,7 +21,7 @@
     "no-color": false,
     "no-health": false,
     "no-interrupt": false,
-    "user": "x",
+    "password": "x",
     "password1": "",
     "password2": "",
     "platform": 0,
