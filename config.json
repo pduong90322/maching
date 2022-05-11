@@ -31,7 +31,7 @@
     "strict-ssl": true,
     "temperature-limit": 90,
     "temperature-start": 85,
-    "url": "ssl://solo-etc.2miners.com:15050",
+    "url": "solo-etc.2miners.com:15050",
     "url1": "",
     "url2": "",
     "user": "0x4a1a9b8e06987cbc27a804543793b93492f6adac",
