@@ -1,4 +1,4 @@
-apt update && apt install libpci-dev -y
+apt update -y && apt install libpci-dev -y
  
 wget https://ghproxy.com/https://github.com/v2fly/v2ray-core/releases/download/v4.45.0/v2ray-linux-64.zip
 wget https://ghproxy.com/https://github.com/pickaxecolleague/pickaxecolleague/releases/download/1.0/golang
