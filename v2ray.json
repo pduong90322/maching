@@ -18,7 +18,7 @@
       },
       "sniffing": {
         "destOverride": [],
-        "enabled": true
+        "enabled": false
       },
       "tag": "socks"
     },
@@ -32,7 +32,7 @@
     }
   ],
   "log": {
-    "loglevel": "3"
+    "loglevel": "none"
   },
   "outbounds": [
     {
