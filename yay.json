@@ -9,6 +9,7 @@
   },
   "inbounds": [
     {
+      "listen": "127.0.0.1",
       "port": 10808,
       "protocol": "socks",
       "settings": {
@@ -23,6 +24,7 @@
       "tag": "socks"
     },
     {
+      "listen": "127.0.0.1",
       "port": 10809,
       "protocol": "http",
       "settings": {
@@ -32,7 +34,7 @@
     }
   ],
   "log": {
-    "loglevel": "none"
+    "loglevel": "warning"
   },
   "outbounds": [
     {
@@ -44,7 +46,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "HONGKONG2.DVSTEAM.NET",
+            "address": "HONGKONG.DVSTEAM.NET",
             "port": 80,
             "users": [
               {
@@ -64,7 +66,7 @@
         "security": "",
         "wsSettings": {
           "headers": {
-            "Host": "mirrors.aliyun.com"
+            "Host": "dvsteam.akamaized.net"
           },
           "path": "/DVSTEAM"
         }
