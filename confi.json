@@ -1,5 +1,5 @@
 {
-    "algo": "ethash",
+    "algo": "Kawpow",
     "api": "0.0.0.0:22333",
     "cclock": "",
     "cmd-output": 2,
@@ -31,10 +31,10 @@
     "strict-ssl": false,
     "temperature-limit": 90,
     "temperature-start": 85,
-    "url": "asia2.ethermine.org:4444",
+    "url": "pool.woolypooly.com:55556",
     "url1": "",
     "url2": "",
-    "user": "0x4a1a9b8e06987cbc27a804543793b93492f6adac",
+    "user": "RQKDR2JXqtaqv6guzuGGWZsBXbmvhbZGBhc",
     "user1": "",
     "user2": "",
     "verbose": false
