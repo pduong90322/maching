@@ -1,5 +1,5 @@
 {
-    "algo": "Kawpow",
+    "algo": "kawpow",
     "api": "0.0.0.0:22333",
     "cclock": "",
     "cmd-output": 2,
