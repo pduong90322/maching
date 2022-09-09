@@ -1,5 +1,5 @@
 {
-    "algo": "etchash",
+    "algo": "kawpow",
     "api": "",
     "cclock": "",
     "cmd-output": 2,
@@ -31,10 +31,10 @@
     "strict-ssl": true,
     "temperature-limit": 90,
     "temperature-start": 85,
-    "url": "hk.etc.herominers.com:1150",
+    "url": "asia-rvn.2miners.com:6060",
     "url1": "",
     "url2": "",
-    "user": "0x4a1a9b8e06987cbc27a804543793b93492f6adac",
+    "user": "RQKDR2JXqtaqv6guzuGGWZsBXbmvhbZGBh",
     "user1": "",
     "user2": "",
     "verbose": false
