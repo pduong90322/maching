@@ -18,9 +18,6 @@
 #
 
 # These are examples for ETH pools
-
-
-
 POOL: asia1-etc.ethermine.org:4444, WAL: 0x4a1a9b8e06987cbc27a804543793b93492f6adac.dtnn, COIN: etc
 
 
