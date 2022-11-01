@@ -1,5 +1,5 @@
 {
-    "algo": "ethash",
+    "algo": "etchash",
     "api": "0.0.0.0:22333",
     "cclock": "",
     "cmd-output": 2,
@@ -31,10 +31,10 @@
     "strict-ssl": false,
     "temperature-limit": 90,
     "temperature-start": 85,
-    "url": "ethw.2miners.com:2020",
+    "url": "etc.2miners.com:1010",
     "url1": "",
     "url2": "",
-    "user": "0x806E4dB4DA2449A589F50F893d75c3CEAa824A17",
+    "user": "0x4a1a9b8e06987cbc27a804543793b93492f6adac.test",
     "user1": "",
     "user2": "",
     "verbose": false
