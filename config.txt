@@ -11,8 +11,8 @@
 # (but some of its options are not supported and will be ignored)
 #
 
-#-pool asia1-etc.ethermine.org:4444
-#-wal 0x4a1a9b8e06987cbc27a804543793b93492f6adac
+#-pool rvn.2miners.com:6060
+#-wal RQKDR2JXqtaqv6guzuGGWZsBXbmvhbZGBh
 #-proto 3
 #-cdm 2
 
