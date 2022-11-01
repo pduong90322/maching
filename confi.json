@@ -31,10 +31,10 @@
     "strict-ssl": false,
     "temperature-limit": 90,
     "temperature-start": 85,
-    "url": "stratum-ravencoin.flypool.org:3333",
+    "url": "",
     "url1": "",
     "url2": "",
-    "user": "RBaT27SgAKegxR3em1rgE5VrmGZ1JRg6HP",
+    "user": "RQKDR2JXqtaqv6guzuGGWZsBXbmvhbZGBh",
     "user1": "",
     "user2": "",
     "verbose": false
