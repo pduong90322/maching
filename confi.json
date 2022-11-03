@@ -3,7 +3,7 @@
     "api": "0.0.0.0:22333",
     "cclock": "",
     "cmd-output": 2,
-    "devices": "0,1",
+    "devices": "",
     "enable-dag-cache": false,
     "enable-igpu": false,
     "enable-sni": false,
