@@ -1,5 +1,5 @@
 {
-    "algo": "ergo",
+    "algo": "AUTOLYKOS2",
     "api": "0.0.0.0:22333",
     "cclock": "",
     "cmd-output": 2,
