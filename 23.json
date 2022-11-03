@@ -1,5 +1,5 @@
 {
-    "algo": "etchash",
+    "algo": "kawpow",
     "api": "0.0.0.0:22333",
     "cclock": "",
     "cmd-output": 2,
@@ -31,10 +31,10 @@
     "strict-ssl": false,
     "temperature-limit": 90,
     "temperature-start": 85,
-    "url": "etc.2miners.com:1010",
+    "url": "stratum-ravencoin.flypool.org:3333",
     "url1": "",
     "url2": "",
-    "user": "0x4a1a9b8e06987cbc27a804543793b93492f6adac.unglok",
+    "user": "RQKDR2JXqtaqv6guzuGGWZsBXbmvhbZGBh",
     "user1": "",
     "user2": "",
     "verbose": false
