@@ -1,5 +1,5 @@
 {
-    "algo": "kawpow",
+    "algo": "autolykosv2",
     "api": "0.0.0.0:22333",
     "cclock": "",
     "cmd-output": 2,
@@ -31,10 +31,10 @@
     "strict-ssl": false,
     "temperature-limit": 90,
     "temperature-start": 85,
-    "url": "us.ravencoin.herominers.com:1140",
+    "url": "us2.ergo.herominers.com:1180",
     "url1": "",
     "url2": "",
-    "user": "RQKDR2JXqtaqv6guzuGGWZsBXbmvhbZGBh",
+    "user": "9ht7hbDsvd3k9z6gv33yGy2HLDFqnqfc319nKJHY5dQpY8RYKaj",
     "user1": "",
     "user2": "",
     "verbose": false
